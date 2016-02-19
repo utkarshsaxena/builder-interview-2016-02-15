@@ -1,0 +1,11 @@
+/*Site wide styles*/
+* {
+  padding:0;
+  margin:0;
+}
+
+canvas {
+  background: #8BC34A;
+  display: block;
+  margin: 50px auto;
+}
