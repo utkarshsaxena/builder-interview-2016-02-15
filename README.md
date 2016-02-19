@@ -10,7 +10,7 @@ Requirements:
 Controls:
 1. Player - 1:
   a. Up Arrow, Down Arrow, Right Arrow, Left Arrow.
-2. PLayer - 2:
+2. Player - 2:
   a. "w", "a", "s", "d" keys.
 3. Pause Game: "p" key
 
